@@ -1,0 +1,3 @@
+/home/bansalji/Shivam/openGL/jetpack-joyride/output/CMakeFiles/edit_cache.dir
+/home/bansalji/Shivam/openGL/jetpack-joyride/output/CMakeFiles/rebuild_cache.dir
+/home/bansalji/Shivam/openGL/jetpack-joyride/output/CMakeFiles/graphics_asgn1.dir
